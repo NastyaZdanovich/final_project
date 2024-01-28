@@ -6,8 +6,8 @@ class Host:
 
 
 class Info:
-    EMAIL = 'ivan_iv_vi_ivanov@mail.ru'
-    PASSWORD = 'pr)8PFToisP7'
+    EMAIL = 'ivan.sergeev_vi.65@mail.ru'
+    PASSWORD = 'tuyrO)oPZT33'
     PHONENUMBER = str(random.randint(290000000, 299999999))
 
 
